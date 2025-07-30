@@ -64,6 +64,4 @@ A Java-based console movie booking application that lets users explore cities, b
 
 **Kartik Jindal**
 Final Year B.Tech CSE Student @ MIET, Meerut
-[GitHub Profile](https://github.com/kartikjindal99)
-[Live Demo Site (HTML Overview)](https://kartikjindal99.github.io/BookMyMoviesApp/)
 
