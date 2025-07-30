@@ -1,8 +1,4 @@
-Bilkul bhai Kartik! Tu ne already kaafi badhiya likha hai. Main thoda polish karke, professional touch deke de raha hoon README ko — tu isse copy-paste kar dena directly GitHub pe.👇
 
----
-
-````markdown
 # 🎬 BookMyMoviesApp
 
 A Java-based console movie booking application that lets users explore cities, browse theaters, view show timings, and book seats dynamically — all backed by a powerful MySQL database.
