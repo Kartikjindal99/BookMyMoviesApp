@@ -71,14 +71,3 @@ Final Year B.Tech CSE Student @ MIET, Meerut
 [GitHub Profile](https://github.com/kartikjindal99)
 [Live Demo Site (HTML Overview)](https://kartikjindal99.github.io/BookMyMoviesApp/)
 
----
-
-💬 *For suggestions or collaboration, feel free to reach out!*
-
-```
-
----
-
-Ye README file tujhe professional bhi dikhayegi aur recruiter ya GitHub pe dekhne waale ko sab kuch clearly samajh aayega.  
-Bhai, agar tu mujhe `bookmyshow.sql` file bhi bhej de to main uska bhi exact importable version bana du with dummy data.
-```
